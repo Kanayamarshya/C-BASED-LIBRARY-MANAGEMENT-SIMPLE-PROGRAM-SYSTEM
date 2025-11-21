@@ -1,0 +1,44 @@
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : faiz
+Judul Buku    : C Programming
+Pengarang     : Brian Kernighan
+Tanggal Pinjam: 10-11-2025
+=============================
+
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : asep
+Judul Buku    : Clean Code
+Pengarang     : Robert C. Martin
+Tanggal Pinjam: 10-11-2025
+=============================
+
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : faizun
+Judul Buku    : C Programming
+Pengarang     : Brian Kernighan
+Tanggal Pinjam: 10-11-2025
+=============================
+
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : p
+Judul Buku    : C Programming
+Pengarang     : Brian Kernighan
+Tanggal Pinjam: 12-11-2025
+=============================
+
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : kay
+Judul Buku    : nama buku
+Pengarang     : penemu
+Tanggal Pinjam: 13-11-2025
+=============================
+
+===== STRUK PEMINJAMAN =====
+Nama Peminjam : kanaya
+No. KTM       : 23444444
+Judul Buku    : Jaringan Komputer
+Pengarang     : Citra Net
+Lokasi        : Rak C3
+Tanggal Pinjam: 2025-11-21
+===========================
+
