@@ -1,3 +1,0 @@
-admin|admin|1
-user|user|0
-as|as|0
